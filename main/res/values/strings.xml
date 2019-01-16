@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">registerUI</string>
+    <string name="vip">会员名:</string>
+    <string name="tel">电话:</string>
+    <string name="birthday">生日:</string>
+    <string name="email">Email:</string>
+    <string name="sex">性别:</string>
+    <string name="address">地址:</string>
+    <string name="habitOpen">偏好公开:</string>
+    <string name="habit">偏好:</string>
+    <string name="area">区域:</string>
+    <string name="swim">游泳</string>
+    <string name="gym">健身</string>
+    <string-array name="addressArray">
+        <item>北京</item>
+        <item>上海</item>
+        <item>深圳</item>
+        <item>广州</item>
+        <item>成都</item>
+    </string-array>
+    <string-array name="region_array">
+        <item>shanghai</item>
+        <item>beijing</item>
+        <item>guangzhou</item>
+        <item>shenzhen</item>
+        <item>nanjing</item>
+        <item>fuzhou</item>
+        <item>jingdezhen</item>
+        <item>chongqing</item>
+    </string-array>
+</resources>
