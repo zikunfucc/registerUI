@@ -1,2 +1,2 @@
 # registerUI
-test some view
+test some views.
